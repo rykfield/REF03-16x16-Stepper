@@ -10,6 +10,6 @@ This "16x16 Stepper" GBC was built as a contribution toward the greatballpit.com
 <BR>Instructions: https://github.com/rykfield/REF03-16x16-Stepper/raw/master/REF03%20-%2016x16%20Stepper.pdf
 <BR>Parts List: https://github.com/rykfield/REF03-16x16-Stepper/raw/master/REF03%20-%2016x16%20Stepper.xml
 
-<P>Previous module: <a href="https://github.com/rykfield/REF01-Industrial-Bucket">Industrial Bucket</a><BR>
+<P><a href="https://github.com/rykfield/REF00-Module-Overview">All modules and instructions</a>
 
 <P>You might also like The Great Ball Of China: https://www.youtube.com/watch?v=Vlvy_arx3Xg
