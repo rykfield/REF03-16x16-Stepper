@@ -1,0 +1,9 @@
+Module Revision Notes
+
+Version 1.0 - Initial Release
+
+Version 1.1 - Updated Instructions to highlight the importance of the 2x2 Bent Cross Blocks being correctly oriented when building the crank shaft.  No parts were changed.  05-Jan-19.
+
+Version 1.2 - Changed the standard black 4L axles connected to the motor and universal joints to grey 4L axles with flat end stops.
+
+Version 1.3 - Changed input liftarm deck and agitator drive assembly to rotate agitator in the correct direction when connected to a train controller turned Clockwise. 22-Mar-19.
